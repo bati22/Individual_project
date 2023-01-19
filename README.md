@@ -10,7 +10,7 @@ To get a response from the bot it is necessary to tag it with the "@" sign. The 
 More specifically user questions are categorized according to the keyword detected in them, preceded by the "#" sign:
 1) #hello
 2) #embedding
-3) #emotion
+3) #emotion_detection
 4) no keyword detected.
 
 The operation of the program in each of the four cases will be as follows:
